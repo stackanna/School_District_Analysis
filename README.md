@@ -12,4 +12,5 @@ The purpose for this analysis was to correct the flawed data concerning the nint
 
 Using the same data set from module 4 we were able to analyze the results and draw conclusions by comparing the data frames after replacing the ninth graders' math and reading scores. The district summary was barely affected as this is a large data set we are drawing our analytics from and Thomas High School and the perentage of students in ninth grade is only a fraction of the total data. 
 
-![alt text]https://github.com/stackanna/School_District_Analysis/blob/97e9808fa3230eabdce039bb6712140bb0435b8b/PyCitySchools.png
+
+![alt text](https://github.com/stackanna/School_District_Analysis/blob/97e9808fa3230eabdce039bb6712140bb0435b8b/PyCitySchools.png)
