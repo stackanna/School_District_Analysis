@@ -22,4 +22,4 @@ The folowing table below is the most updated run on the changes to our data set 
 
 ## Summary
 
-By replacing the scores for the ninth grade affects the overall passing percentages for Thomas High school signifcantly. The overall passing percentages for math and reading went down signifcantly. It appears that the ninth grade students math and reading scores had a huge impact on the entire schools math and reading comprehension. The scores by school spending does not appear to affect
+By replacing the scores for the ninth grade affects the overall passing percentages for Thomas High school signifcantly. The overall passing percentages for math and reading went down signifcantly. It appears that the ninth grade students math and reading scores had a huge impact on the entire schools math and reading comprehension. The scores by school spending does not appear to impacted in any apparent way. The school size is affected since we are removing a decent size of the student bodies scores (ninth graders at Thomas High School) from the total of the data. The school type does not seem to have any affect on the scores either.  
