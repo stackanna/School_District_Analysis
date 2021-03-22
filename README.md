@@ -19,3 +19,5 @@ The table below features the orignal analysis of the PyCity School Districts sch
 The folowing table below is the most updated run on the changes to our data set where we removed the average math and reading scores for the ninth grade students at Thomas High School.
 
 ![alt text](https://github.com/stackanna/School_District_Analysis/blob/698a6fb30d18ab9eae11e9565c67f15abcb71c7c/PyCitySchools2.png)
+
+By replacing the scores for the ninth grade affects the math and reading scores 
